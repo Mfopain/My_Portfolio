@@ -1,2 +1,2 @@
 # My_Portfolio
-A website displaying portfolio 
+A website displaying my portfolio 
